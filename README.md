@@ -7,7 +7,7 @@ A passionate and curious backend developer from Romania 🔭 I’m currently wor
 
 👨‍💻 All of my projects are available at https://github.com/flavia-caluser
 
-💬 Ask me about Java and logic
+💬 Ask me about Java and logic(I'm quite a fan of this one😉)
 
 📫 How to reach me flavia.caluser88@gmail.com
 
