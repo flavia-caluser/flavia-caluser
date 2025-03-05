@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
+A passionate and curious backend developer from Romania 🔭 I’m currently working on an app which helps organizing dance classes 💃🕺
 
-<!--
-**flavia-caluser/flavia-caluser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Spring Boot, Java, MySQL
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects are available at https://github.com/flavia-caluser
+
+💬 Ask me about Java and logic
+
+📫 How to reach me flavia.caluser88@gmail.com
+
+Languages and Tools:
+Java
+Spring
+MySQL
